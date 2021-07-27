@@ -1,0 +1,27 @@
+Event	ID	Name			Wwise Object Path	Notes
+	491210058	TeslaShot			\Default Work Unit\TeslaShot	
+	588446670	CoinShot			\Default Work Unit\CoinShot	
+	703513473	DashShot			\Default Work Unit\DashShot	
+	1074747105	V1Slide			\Default Work Unit\V1Slide	
+	2767771884	RevolverShot			\Default Work Unit\RevolverShot	
+	2868774063	V1PistolShot			\Default Work Unit\V1PistolShot	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	3673881719	Volume_SFX			\Default Work Unit\Volume_SFX	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	149559581	Dodge2	C:\Users\wool9\OneDrive\Documents\WwiseProjects\v1survivor\.cache\Windows\SFX\Dodge2_A1793BE9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Master Mixer\SFX Master\Dash\DashShot\Dodge2		10444
+	310550849	Dodge3	C:\Users\wool9\OneDrive\Documents\WwiseProjects\v1survivor\.cache\Windows\SFX\Dodge3_A1793BE9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Master Mixer\SFX Master\Dash\DashShot\Dodge3		10489
+	420642625	Revolver3	C:\Users\wool9\OneDrive\Documents\WwiseProjects\v1survivor\.cache\Windows\SFX\Revolver3_A1793BE9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Master Mixer\SFX Master\Revolver\RevolverShot\Revolver3		23383
+	449988111	Slide	C:\Users\wool9\OneDrive\Documents\WwiseProjects\v1survivor\.cache\Windows\SFX\Slide_CB1F3167.wem		\Actor-Mixer Hierarchy\Default Work Unit\Master Mixer\SFX Master\Slide\Slide		154345
+	468419556	Dodge	C:\Users\wool9\OneDrive\Documents\WwiseProjects\v1survivor\.cache\Windows\SFX\Dodge_A1793BE9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Master Mixer\SFX Master\Dash\DashShot\Dodge		10489
+	518806403	CoinToss	C:\Users\wool9\OneDrive\Documents\WwiseProjects\v1survivor\.cache\Windows\SFX\CoinToss_A1793BE9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Master Mixer\SFX Master\Coin\CoinShot\CoinToss		34008
+	583858742	Pistol1	C:\Users\wool9\OneDrive\Documents\WwiseProjects\v1survivor\.cache\Windows\SFX\Pistol1_A1793BE9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Master Mixer\SFX Master\Pistol\PistolShot\Pistol1		23709
+	595652262	RailgunFire2	C:\Users\wool9\OneDrive\Documents\WwiseProjects\v1survivor\.cache\Windows\SFX\RailgunFire2_A1793BE9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Master Mixer\SFX Master\Tesla\TeslaShot\RailgunFire2		32679
+	595685676	CoinToss2	C:\Users\wool9\OneDrive\Documents\WwiseProjects\v1survivor\.cache\Windows\SFX\CoinToss2_A1793BE9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Master Mixer\SFX Master\Coin\CoinShot\CoinToss2		34008
+	641650688	Pistol4	C:\Users\wool9\OneDrive\Documents\WwiseProjects\v1survivor\.cache\Windows\SFX\Pistol4_A1793BE9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Master Mixer\SFX Master\Pistol\PistolShot\Pistol4		23709
+	693662432	Pistol2	C:\Users\wool9\OneDrive\Documents\WwiseProjects\v1survivor\.cache\Windows\SFX\Pistol2_A1793BE9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Master Mixer\SFX Master\Pistol\PistolShot\Pistol2		27417
+	706626284	RailgunFire	C:\Users\wool9\OneDrive\Documents\WwiseProjects\v1survivor\.cache\Windows\SFX\RailgunFire_A1793BE9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Master Mixer\SFX Master\Tesla\TeslaShot\RailgunFire		32679
+	839342504	Revolver1	C:\Users\wool9\OneDrive\Documents\WwiseProjects\v1survivor\.cache\Windows\SFX\Revolver1_A1793BE9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Master Mixer\SFX Master\Revolver\RevolverShot\Revolver1		23383
+	1008678175	Revolver2	C:\Users\wool9\OneDrive\Documents\WwiseProjects\v1survivor\.cache\Windows\SFX\Revolver2_A1793BE9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Master Mixer\SFX Master\Revolver\RevolverShot\Revolver2		23383
+
